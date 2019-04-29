@@ -1,0 +1,8 @@
+D:\Programs\emgucv-windesktop 3.4.3.3016\libs\Emgu.CV.World.XML
+D:\Programs\emgucv-windesktop 3.4.3.3016\libs\Emgu.CV.World.dll
+D:\Programs\emgucv-windesktop 3.4.3.3016\libs\Emgu.CV.World.pdb
+D:\Programs\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\obj\Debug\Emgu.CV.World.csproj.CoreCompileInputs.cache
+D:\Programs\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\obj\Debug\Emgu.CV.World.dll
+D:\Programs\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\obj\Debug\Emgu.CV.World.pdb
+D:\Programs\emgucv-windesktop 3.4.3.3016\libs\box.png
+D:\Programs\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\obj\Debug\Emgu.CV.World.csprojResolveAssemblyReference.cache
